@@ -1,0 +1,40 @@
+Reader: 0 has acquired the lock
+Reader: 1 has acquired the lock
+Reader: 2 has acquired the lock
+Reader: 2 has released the lock
+Reader: 0 has released the lock
+Reader: 1 has released the lock
+Writer: 0 has acquired the lock
+Writer: 0 has released the lock
+Writer: 1 has acquired the lock
+Writer: 1 has released the lock
+Writer: 0 has acquired the lock
+Writer: 0 has released the lock
+Writer: 1 has acquired the lock
+Writer: 1 has released the lock
+Reader: 5 has acquired the lock
+Reader: 1 has acquired the lock
+Reader: 2 has acquired the lock
+Reader: 4 has acquired the lock
+Reader: 3 has acquired the lock
+Reader: 4 has acquired the lock
+Reader: 0 has acquired the lock
+Reader: 3 has acquired the lock
+Reader: 5 has acquired the lock
+Reader: 5 has released the lock
+Reader: 1 has released the lock
+Reader: 3 has released the lock
+Reader: 0 has released the lock
+Reader: 4 has released the lock
+Reader: 5 has released the lock
+Reader: 2 has released the lock
+Reader: 4 has released the lock
+Reader: 3 has released the lock
+Reader 0 Lock Time: 20 Unlock Time: 26
+Reader 1 Lock Time: 15 Unlock Time: 24
+Reader 2 Lock Time: 16 Unlock Time: 29
+Reader 3 Lock Time: 21 Unlock Time: 31
+Reader 4 Lock Time: 19 Unlock Time: 30
+Reader 5 Lock Time: 22 Unlock Time: 28
+Writer 0 Lock Time: 10 Unlock Time: 11
+Writer 1 Lock Time: 12 Unlock Time: 13
